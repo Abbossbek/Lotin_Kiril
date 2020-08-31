@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">LOTIN KIRIL</string>
+    <string name="nav_header_subtitle">ARCompanyUZ@gmail.com</string>
+
+    <string name="menu_home">LOTIN KIRIL</string>
+    <string name="menu_tools">Sozlamalar</string>
+    <string name="menu_share">Ulashish</string>
+    <string name="menu_send">Xabar yuborish</string>
+    <string name="about_app_text">LOTIN-KIRIL ilovasi matnni lotin yozuvidan kiril yozuviga yoki aksincha kiril yozuvidan lotin yozuviga o\'tkazish uchun mo\'ljallangan. \n\nBundan tashqari matn registrlarini o\'zgartirish funksiyasiga ham ega.</string>
+    <string name="title_text_size">Shrift o\'lchami</string>
+    <string name="title_night_mode">Tungi rejim</string>
+    <string name="title_lang">Til</string>
+    <string name="copied_lotin">Lotin yozuvidan nusxa olindi!</string>
+    <string name="copied_kiril">Kiril yozuvidan nusxa olindi!</string>
+    <string name="kiril">Kiril</string>
+    <string name="lotin">Lotin</string>
+    <string name="choose_text">Yozuvni tanlang!</string>
+    <string name="big_registr">KATTA</string>
+    <string name="small_registr">kichik</string>
+    <string name="normal_registr">Normal</string>
+    <string name="copy">NUSXA OLISH</string>
+    <string name="menu_main">Asosiy</string>
+    <string name="menu_connect">Aloqa</string>
+    <string name="menu_about">Dastur haqida</string>
+    <string name="telegram_channel">Telegram kanal</string>
+    <string name="menu_rate">Ilovani baholash</string>
+    <string-array name="spinnerItems">
+        <item>16</item>
+        <item>18</item>
+        <item>24</item>
+        <item>32</item>
+        <item>36</item>
+        <item>48</item>
+        <item>72</item>
+    </string-array>
+    <string-array name="langs">
+        <item>O\'zbek</item>
+        <item>Русский</item>
+    </string-array>
+</resources>

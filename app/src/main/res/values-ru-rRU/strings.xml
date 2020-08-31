@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LOTIN KIRIL</string>
+    <string name="nav_header_subtitle">ARCompanyUZ@gmail.com</string>
+    <string name="big_registr">БОЛЬШОЙ</string>
+    <string name="choose_text">Выберите!</string>
+    <string name="copied_kiril">Скопировано из кириллического текста!</string>
+    <string name="copied_lotin">Скопировано из латинского текста!</string>
+    <string name="copy">КОПИРОВАТЬ</string>
+    <string name="kiril">Кириллица</string>
+    <string name="lotin">Латиница</string>
+    <string name="menu_about">О программе</string>
+    <string name="menu_connect">Связь</string>
+    <string name="menu_home">LOTIN KIRIL</string>
+    <string name="menu_main">Главный</string>
+    <string name="menu_send">Отправить сообщение</string>
+    <string name="menu_share">Поделиться</string>
+    <string name="menu_tools">Настройки</string>
+    <string name="normal_registr">Нормальный</string>
+    <string name="small_registr">Маленький</string>
+    <string name="title_lang">Язык</string>
+    <string name="title_night_mode">Ночной режим</string>
+    <string name="title_text_size">Размер текста</string>
+    <string name="about_app_text">Приложение LOTIN-KIRIL предназначено для преобразования текста с латиницы в кириллицу или наоборот. \n\nТакже имеет функцию изменения регистра текста.</string>
+    <string name="telegram_channel">Телеграм канал</string>
+    <string name="menu_rate">Оценить приложение</string>
+</resources>
